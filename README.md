@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DmitrijP1402
-- 👀 I’m interested in μC 
+- 👀 I’m interested in programming, μC and 3D printing
 - 🌱 I’m currently learning Java, Arduino and MicroPython
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
