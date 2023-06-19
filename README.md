@@ -1,3 +1,5 @@
+![dima79108_make_a_cool_background_with_diffrent_arduino_Microcon_6168b6dd-08ba-4778-be35-465ea0f0b6f1](https://github.com/DmitrijP1402/DmitrijP1402/assets/118051854/019ba838-05ff-43c1-aea7-84cc4b266be6)
+
 # 💫 About Me:
 👋 Hi, I’m @DmitrijP1402<br>👀 I’m interested in programming, μC and 3D printing<br>🌱 I’m currently learning Java and Arduino.<br>💞️ I’m looking to collaborate on ...<br>📫 How to reach me ...
 
