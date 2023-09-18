@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @DmitrijP1402<br>👀 I’m interested in programming, μC and 3D printing<br>🌱 I’m currently learning Java and Arduino.<br>
+👋 Hi, I’m @DmitrijP1402<br>👀 I’m interested in programming, μC and 3D printing<br>🌱 I’m currently learning Java(GUI) and Arduino.<br>
 
 
 # 💻 Tech Stack:
